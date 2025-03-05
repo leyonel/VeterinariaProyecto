@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Data",
+    "\\Models"
   ],
-  "SelectedNode": "\\Data",
+  "SelectedNode": "\\Data\\VeterinariaContext.cs",
   "PreviewInSolutionExplorer": false
 }

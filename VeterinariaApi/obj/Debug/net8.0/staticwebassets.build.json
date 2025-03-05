@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5RFZCFwMBM/35ffeYWT6ixeBNswDdUYJJZmyeMP8nWk=",
+  "Source": "VeterinariaApi",
+  "BasePath": "_content/VeterinariaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
