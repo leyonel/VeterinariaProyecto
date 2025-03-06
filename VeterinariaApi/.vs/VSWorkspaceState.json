@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Data",
+    "\\Migrations",
     "\\Models"
   ],
-  "SelectedNode": "\\Data\\VeterinariaContext.cs",
+  "SelectedNode": "\\Migrations\\20250305061623_InitialCreate.cs",
   "PreviewInSolutionExplorer": false
 }

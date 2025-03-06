@@ -1,1 +1,6 @@
+# Ignorar bin y obj
+bin/
+obj/
+
+# Ignorar archivos de configuración del IDE
 .vs/

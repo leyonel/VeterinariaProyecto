@@ -11,5 +11,7 @@ namespace VeterinariaAPI.Models
         public DateTime FechaVencimiento { get; set; }
         public DateTime FechaLote { get; set; }
         public string Tipo { get; set; } // "Medicamento, alimento, accesorio"
+        public string Descripcion { get; set; }
+        public float Precio { get; set; }
     }
 }
