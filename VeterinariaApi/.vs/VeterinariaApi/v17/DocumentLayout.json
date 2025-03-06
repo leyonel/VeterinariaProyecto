@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\Veterinaria\\VeterinariaProyecto\\VeterinariaApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-06T06:33:32.92Z",
               "EditorCaption": ""
@@ -111,8 +111,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T05:23:26.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T05:23:26.665Z"
             }
           ]
         }
