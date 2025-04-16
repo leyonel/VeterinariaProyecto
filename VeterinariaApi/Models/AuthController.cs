@@ -40,7 +40,7 @@ public class AuthController : ControllerBase
     }
 
     [Authorize(Roles = "Doctor,Administrador")]
-    [HttpGet("solo-doctores")]
+    [HttpGet("solo-doctores_administrador")]
     public IActionResult SoloParaDoctores()
     {
         return Ok("Bienvenido Doctor!");

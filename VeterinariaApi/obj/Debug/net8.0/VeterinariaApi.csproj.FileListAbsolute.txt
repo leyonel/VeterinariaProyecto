@@ -276,3 +276,4 @@ E:\Veterinaria\VeterinariaProyecto\VeterinariaApi\obj\Debug\net8.0\refint\Veteri
 E:\Veterinaria\VeterinariaProyecto\VeterinariaApi\obj\Debug\net8.0\VeterinariaApi.pdb
 E:\Veterinaria\VeterinariaProyecto\VeterinariaApi\obj\Debug\net8.0\VeterinariaApi.genruntimeconfig.cache
 E:\Veterinaria\VeterinariaProyecto\VeterinariaApi\obj\Debug\net8.0\ref\VeterinariaApi.dll
+E:\Veterinaria\VeterinariaProyecto\VeterinariaApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
