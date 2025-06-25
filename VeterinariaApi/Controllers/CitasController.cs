@@ -5,12 +5,14 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authorization;
 using VeterinariaAPI.Models;
 
 namespace VeterinariaApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize(Roles = "Paciente,Doctor,Administrador")]
     public class CitasController : ControllerBase
     {
         private readonly VeterinariaContext _context;
